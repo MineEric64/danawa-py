@@ -1,7 +1,7 @@
 # danawa-py
 Danawa Unofficial API
 
-- [한국어 README 문서](./README.md)
+- [한국어 README 문서](./README_ko.md)
 
 ## NOTE
 Warning!
