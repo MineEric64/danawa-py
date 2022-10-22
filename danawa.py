@@ -1,17 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-is_init = False
-
-def init():
-    warnings = ["Warning! This danawa api is unofficialy made by danawa user, not danawa developer.",
-                "So this danawa api developer does not assume any legal responsibility arising from using this api.",
-                "Please consider using danawa official api."
-                ]
-
-    print("\n".join(warnings))
-    is_init = True
-
 def _get_header(host: str, referer: str = None):
     header = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
