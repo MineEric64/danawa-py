@@ -6,7 +6,7 @@ Danawa Unofficial API
 ## NOTE
 Warning!
 
-This danawa api is **unofficialy** made by danawa user, not danawa developer.
+This danawa api is **unofficially** made by danawa user, not danawa developer.
 
 So this danawa api developer does not assume any legal responsibility arising from using this api.
 
