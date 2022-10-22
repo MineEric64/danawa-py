@@ -3,7 +3,7 @@
 
 - [English README Documentation](./README.md)
 
-## NOTE
+## 공지
 주의!
 
 이 다나와 API는 다나와 개발자가 아닌 다나와 유저가 만든 **비공식** API입니다.
