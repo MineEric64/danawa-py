@@ -19,7 +19,7 @@
 |`get_product(product_code)`|제품 코드를 통해 제품 정보를 가져옵니다.|`product_code` 타입: int|
 |`get_price_variance(product_code, by_month)`|날마다 가격 정보가 있는 가격 변동 배열을 가져옵니다. `by_month` 변수는 변동 배열이 얼마나 많은 정보를 가지고 있는지에 따라 결정됩니다. `by_month` 변수는 범위가 있습니다. (1, 3, 6, 12만 가능)|`product_code` 타입: int, `by_month` 타입: int|
 
-### Example
+### 
 ```python
 import danawa as dw
 
